@@ -67,8 +67,6 @@ I'm a **Senior Backend Developer & AI Integration Specialist** with **10+ years*
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/hhub.webp" width="100%" alt="Hhub — AI SaaS for Orthodontists"/>
-
 ### 🦷 [Hhub — AI SaaS for Orthodontists](https://hhub.ai/)
 AI-powered patient engagement platform unifying calls, texts, web chats & referrals into one dashboard — so no lead slips between inquiry and consult.
 
@@ -76,8 +74,6 @@ AI-powered patient engagement platform unifying calls, texts, web chats & referr
 
 </td>
 <td width="50%" valign="top">
-
-<img src="./assets/projects/cosmoria.webp" width="100%" alt="Cosmoria — AI Social Media SaaS"/>
 
 ### 🌌 Cosmoria — AI Social Media SaaS
 Self-hostable, multi-tenant SaaS where organizations create **AI agents** with a niche, tone & brand voice to generate, schedule & auto-publish across 9 platforms.
@@ -89,8 +85,6 @@ Self-hostable, multi-tenant SaaS where organizations create **AI agents** with a
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/tempbutton.webp" width="100%" alt="Temp Button — Staffing Platform"/>
-
 ### 👥 [Temp Button — Staffing Platform](https://tempbutton.com/)
 Backend-driven staffing system handling timesheets, invoicing, payroll workflows, QuickBooks sync, webhooks & live data synchronization.
 
@@ -98,8 +92,6 @@ Backend-driven staffing system handling timesheets, invoicing, payroll workflows
 
 </td>
 <td width="50%" valign="top">
-
-<img src="./assets/projects/kanonhealth.webp" width="100%" alt="Kanon Health — Healthcare Ops"/>
 
 ### 🏥 [Kanon Health — Healthcare Ops](https://kanonhealth.com/)
 End-to-end healthcare software: patient data, appointments, secure doctor–patient communication, reports, billing & clinical workflows.
